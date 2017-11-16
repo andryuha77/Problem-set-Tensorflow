@@ -42,3 +42,4 @@ use:
 
 to start jupyter notebook
 
+The solution may require some time to run in Jupiter.
